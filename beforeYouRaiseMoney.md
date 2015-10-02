@@ -1,12 +1,17 @@
 #### Before You Raise Money
 
-Most startups that raise money do it more than once. A typical trajectory might be (1) to get started with a few tens of thousands from something like Y Combinator or individual angels, then (2) raise a few hundred thousand to a few million to build the company, and then (3) once the company is clearly succeeding, raise one or more later rounds to accelerate growth.
+from Paul graham
 
-Reality can be messier. Some companies raise money twice in phase 2. Others skip phase 1 and go straight to phase 2. And at Y Combinator we get an increasing number of companies that have already raised amounts in the hundreds of thousands. But the three phase path is at least the one about which individual startups' paths oscillate.
+Most startups that raise money do it more than once. A typical trajectory might be:
+  - 1. To get started with a few tens of thousands from individual angels, then
+  - 2. Raise a few hundred thousand to a few million to build the company, and then
+  - 3. Once the company is clearly succeeding, raise one or more later rounds to accelerate growth.
+
+Reality can be messier. Some companies raise money twice in phase 2. Others skip phase 1 and go straight to phase 2. The three phase path is at least the one about which individual startups' paths oscillate.
 
 This essay focuses on phase 2 fundraising. That's the type the startups we fund are doing on Demo Day, and this essay is the advice we give them.
 
-Forces
+**Forces**
 
 Fundraising is hard in both senses: hard like lifting a heavy weight, and hard like solving a puzzle. It's hard like lifting a weight because it's intrinsically hard to convince people to part with large sums of money. That problem is irreducible; it should be hard. But much of the other kind of difficulty can be eliminated. Fundraising only seems a puzzle because it's an alien world to most founders, and I hope to fix that by supplying a map through it.
 
@@ -363,6 +368,5 @@ You can relent a little if the potential series A investor has a great reputatio
 Investors are professional negotiators and can negotiate on the spot very easily. If only one founder is in the room, you can say "I need to circle back with my co-founder" before making any commitments. I used to do this all the time.
 [26] You'll be lucky if fundraising feels pleasant enough to become addictive. More often you have to worry about the other extreme—becoming demoralized when investors reject you. As one (very successful) YC founder wrote after reading a draft of this:
 It's hard to mentally deal with the sheer scale of rejection in fundraising and if you are not in the right mindset you will fail. Users may love you but these supposedly smart investors may not understand you at all. At this point for me, rejection still rankles but I've come to accept that investors are just not super thoughtful for the most part and you need to play the game according to certain somewhat depressing rules (many of which you are listing) in order to win.
-[27] The actual sentence in the King James Bible is "Pride goeth before destruction, and an haughty spirit before a fall."
 
-Thanks to Slava Akhmechet, Sam Altman, Nate Blecharczyk, Adora Cheung, Bill Clerico, John Collison, Patrick Collison, Parker Conrad, Ron Conway, Travis Deyle, Jason Freedman, Joe Gebbia, Mattan Griffel, Kevin Hale, Jacob Heller, Ian Hogarth, Justin Kan, Professor Moriarty, Nikhil Nirmel, David Petersen, Geoff Ralston, Joshua Reeves, Yuri Sagalov, Emmett Shear, Rajat Suri, Garry Tan, and Nick Tomarello for reading drafts of this.
+The actual sentence in the King James Bible is ***"Pride goeth before destruction, and an haughty spirit before a fall."***
