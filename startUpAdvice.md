@@ -45,18 +45,18 @@ On the other hand, when you have a “company” that you feel pressure to commi
 
 22. **Don’t waste your time on stuff that doesn’t matter** (i.e. things other than building your product, talking to your users, growing, etc.).  In general, avoid the kind of stuff that might be in a movie about running a startup—meeting with lawyers and accountants, going to lots of conferences, grabbing coffee with people, sitting in lots of meetings, etc.  Become a Delaware C Corp (use Clerky or any well-known Silicon Valley law firm) and then get back to work on your product.
 
-Focus intensely on the things that do matter.  Every day, figure out what the 2 or 3 most important things for you to do are.  Do those and ignore other distractions.  Be a relentless execution machine.
+23. **Focus intensely on the things that do matter.**  **Every day, figure out what the 2 or 3 most important things for you to do are.  Do those and ignore other distractions.  Be a relentless execution machine.
 
-Do what it takes and don’t make up excuses.
+24. **Do what it takes and don’t make up excuses.**
 
-Learn to manage people.  Make sure your employees are happy.  Don’t ignore this.
+25. **Learn to manage people.  Make sure your employees are happy.  Don’t ignore this.**
 
-In addition to building a great product, if you want to be really successful, you also have to build a great company.  So think a lot about your culture.
+26. In addition to building a great product, if you want to be really successful, you also have to **build a great company.**  So think a lot about your culture.
 
-Don’t underestimate the importance of personal connections.
+27. **Don’t underestimate the importance of personal connections.**
 
-Ignore acquisition interest until you are sure you want to sell.  Don’t “check the market”.  There is an alternate universe somewhere full of companies that would have been great if they could have just avoided this one mistake.  Unfortunately, in this universe, they’re all dead.
+28. **Ignore acquisition interest until you are sure you want to sell.**  Don’t “check the market”.  There is an alternate universe somewhere full of companies that would have been great if they could have just avoided this one mistake.  Unfortunately, in this universe, they’re all dead.
 
-Work really hard.  Everyone wants a secret to success other than this; if it exists, I haven’t found it yet.
+29. **Work really hard.**  Everyone wants a secret to success other than this; if it exists, I haven’t found it yet.
 
-Keep doing this for 10 years.
+30. **Keep doing this for 10 years.**
