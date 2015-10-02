@@ -1,6 +1,6 @@
-#### StartUp Advice
+#### The 30 StartUp Pieces of Advice
 
- 1. **You should start with an idea, not a company.**  When it’s just an idea or project, the stakes are lower and you’re more willing to entertain outlandish-sounding but potentially huge ideas.  **The best way to start a company is to build interesting projects.**
+1. **You should start with an idea, not a company.**  When it’s just an idea or project, the stakes are lower and you’re more willing to entertain outlandish-sounding but potentially huge ideas.  **The best way to start a company is to build interesting projects.**
 On the other hand, when you have a “company” that you feel pressure to commit to an idea too quickly.  If it’s just a project, you can spend more time finding something great to work on, which is important—if the startup really works, you’ll probably be working on it for a very long time.
 
 2. **Have at least one technical founder on the team (i.e. someone who can build whatever the company is going to build).**
