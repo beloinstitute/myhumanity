@@ -51,7 +51,7 @@ You must be willing to break the law as part of risk taking.
 The government regulates what exists.
 
 
-Just go ahead, if no one asks you, go ahead until someone asks you: Even in medicine. They take test cases
+Just go ahead, if no one asks you, go ahead until someone asks you: Even in medicine, they take test cases
 
 
 
