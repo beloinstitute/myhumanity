@@ -26,7 +26,7 @@ See beyond what they saw and go far.
 
 Leverage the products 
 
-If you do not talk there is now ay you can sharpen certain arguements.
+If you do not talk there is no way you can sharpen certain arguements.
 
 You need to have an eco-system where gys meet and they share knowledge
 When you share knowledge, you get to learn new things.
