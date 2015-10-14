@@ -52,9 +52,6 @@ Aside from these things there is one more trait a founder can have that VCs look
 In evaluating your founding team, you must ask yourself: If you two are leading the charge, will others follow you into battle?
 
 
-
-
-
 credits:
 
 1. [Tech Republic on "How to choose a great co-founder"](http://www.techrepublic.com/article/how-to-choose-a-great-co-founder-for-your-startup/)
